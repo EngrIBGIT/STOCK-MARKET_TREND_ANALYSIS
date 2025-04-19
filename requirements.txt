@@ -1,0 +1,14 @@
+pandas
+streamlit
+seaborn
+numpy
+matplotlib
+fpdf
+tensorflow
+plotly
+requests
+lru_cache
+xgboost
+scipy
+scikit-learn
+sklearn
